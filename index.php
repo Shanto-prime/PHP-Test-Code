@@ -6,6 +6,7 @@ $books = [
     'Ni Book',
     'Pi Book'
     'khai Book'
+    'khai Book'
 ];
 
 
